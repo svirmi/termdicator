@@ -1,6 +1,8 @@
 # Termdicator
 A custom made crypto orderbook indicator displaying in your terminal
 
+(https://www.youtube.com/watch?v=PhoMhbEHLDg)[https://www.youtube.com/watch?v=PhoMhbEHLDg]
+
 ## Recources 
 - Binance websocket futures api 
 ```
